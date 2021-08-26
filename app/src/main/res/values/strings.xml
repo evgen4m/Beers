@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shift2021Summer</string>
+    <string name="beer_name">Название</string>
+    <string name="description">Описание</string>
+    <string name="tagline">Слоган</string>
+    <string name="first_brewed">Первый разлив</string>
+    <string name="brewers_tips">Советы пивоваров</string>
+
+
+</resources>
